@@ -1,0 +1,18 @@
+﻿Test Name:	TestMethod9
+Test Outcome:	Passed
+Result StandardOutput:	SUMMON 4;
+Result StandardError:	
+73 2 0 0 4 4 4 B----- 4 0 0 
+55 4 0 0 2 0 5 ---G-- 0 0 0 
+79 8 0 0 8 8 8 B----- 0 0 0 
+28 10 0 0 2 1 2 ------ 0 0 1 
+80 12 0 0 8 8 8 B--G-- 0 0 1 
+79 14 0 0 8 8 8 B----- 0 0 0 
+38 6 1 0 1 1 3 --D--- 0 0 0 
+64 5 -1 0 2 1 1 ---G-W 0 0 0
+EsPos,S4_-1                                             ,value=21.250    ,myCardValue=23.250    ,oppCardValue=4.000     
+EsPos,S10_-1                                            ,value=19.250    ,myCardValue=21.250    ,oppCardValue=4.000     
+EsPos,A6_5 S4_-1                                        ,value=21.250    ,myCardValue=22.250    ,oppCardValue=3.000     
+EsPos,A6_5 S10_-1                                       ,value=19.250    ,myCardValue=20.250    ,oppCardValue=3.000     
+Turn took: 27.0191 ms entered find comb: 26 pos estim: 4
+

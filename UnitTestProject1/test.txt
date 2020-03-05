@@ -1,0 +1,100 @@
+EsPos,S4_-1                                             ,value=25.498    ,myCardValue=35.658    ,oppCardValue=11.500    
+EsPos,S4_-1 E1_2                                        ,value=26.598    ,myCardValue=32.658    ,oppCardValue=7.400     
+EsPos,S4_-1 E1_2 E5_2                                   ,value=23.598    ,myCardValue=27.458    ,oppCardValue=5.200     
+EsPos,S4_-1 E1_2 E5_4                                   ,value=23.298    ,myCardValue=21.958    ,oppCardValue=0.000     
+EsPos,S4_-1 E1_2 E5_-1                                  ,value=25.938    ,myCardValue=32.658    ,oppCardValue=7.400     
+EsPos,S4_-1 E5_2                                        ,value=24.698    ,myCardValue=32.658    ,oppCardValue=9.300     
+EsPos,S4_-1 E5_2 E1_2                                   ,value=23.598    ,myCardValue=27.458    ,oppCardValue=5.200     
+EsPos,S4_-1 E5_2 E1_4                                   ,value=18.098    ,myCardValue=21.958    ,oppCardValue=5.200     
+EsPos,S4_-1 E5_2 E1_-1                                  ,value=24.038    ,myCardValue=32.658    ,oppCardValue=9.300     
+EsPos,S4_-1 E1_4                                        ,value=18.898    ,myCardValue=24.958    ,oppCardValue=7.400     
+EsPos,S4_-1 E1_4 E5_-1                                  ,value=18.238    ,myCardValue=24.958    ,oppCardValue=7.400     
+EsPos,S4_-1 E5_4                                        ,value=22.198    ,myCardValue=24.958    ,oppCardValue=4.100     
+EsPos,S4_-1 E5_4 E1_-1                                  ,value=21.538    ,myCardValue=24.958    ,oppCardValue=4.100     
+EsPos,S4_-1 E1_-1                                       ,value=24.838    ,myCardValue=35.658    ,oppCardValue=11.500    
+EsPos,S4_-1 E1_-1 E5_-1                                 ,value=24.178    ,myCardValue=35.658    ,oppCardValue=11.500    
+EsPos,S4_-1 E5_-1                                       ,value=24.838    ,myCardValue=35.658    ,oppCardValue=11.500    
+BEST MOVE 18.0983333333333 -1000
+EsPos,S6_-1                                             ,value=21.792    ,myCardValue=31.292    ,oppCardValue=11.500    
+EsPos,S6_-1 E1_2                                        ,value=22.892    ,myCardValue=28.292    ,oppCardValue=7.400     
+EsPos,S6_-1 E1_2 E5_2                                   ,value=19.892    ,myCardValue=23.092    ,oppCardValue=5.200     
+EsPos,S6_-1 E1_2 E5_6                                   ,value=19.892    ,myCardValue=23.092    ,oppCardValue=5.200     
+EsPos,S6_-1 E1_2 E5_-1                                  ,value=22.232    ,myCardValue=28.292    ,oppCardValue=7.400     
+EsPos,S6_-1 E5_2                                        ,value=20.992    ,myCardValue=28.292    ,oppCardValue=9.300     
+EsPos,S6_-1 E5_2 E1_2                                   ,value=19.892    ,myCardValue=23.092    ,oppCardValue=5.200     
+EsPos,S6_-1 E5_2 E1_6                                   ,value=19.892    ,myCardValue=23.092    ,oppCardValue=5.200     
+EsPos,S6_-1 E5_2 E1_-1                                  ,value=20.332    ,myCardValue=28.292    ,oppCardValue=9.300     
+EsPos,S6_-1 E1_6                                        ,value=20.692    ,myCardValue=26.092    ,oppCardValue=7.400     
+EsPos,S6_-1 E1_6 E5_-1                                  ,value=20.032    ,myCardValue=26.092    ,oppCardValue=7.400     
+EsPos,S6_-1 E5_6                                        ,value=18.792    ,myCardValue=26.092    ,oppCardValue=9.300     
+EsPos,S6_-1 E5_6 E1_-1                                  ,value=18.132    ,myCardValue=26.092    ,oppCardValue=9.300     
+EsPos,S6_-1 E1_-1                                       ,value=21.132    ,myCardValue=31.292    ,oppCardValue=11.500    
+EsPos,S6_-1 E1_-1 E5_-1                                 ,value=20.472    ,myCardValue=31.292    ,oppCardValue=11.500    
+EsPos,S6_-1 E5_-1                                       ,value=21.132    ,myCardValue=31.292    ,oppCardValue=11.500    
+BEST MOVE 18.1316666666667 18.0983333333333
+EsPos,S10_-1                                            ,value=22.632    ,myCardValue=32.792    ,oppCardValue=11.500    
+EsPos,S10_-1 E1_2                                       ,value=23.732    ,myCardValue=29.792    ,oppCardValue=7.400     
+EsPos,S10_-1 E1_2 E5_2                                  ,value=20.732    ,myCardValue=24.592    ,oppCardValue=5.200     
+EsPos,S10_-1 E1_2 E5_10                                 ,value=22.932    ,myCardValue=26.792    ,oppCardValue=5.200     
+EsPos,S10_-1 E1_2 E5_-1                                 ,value=23.072    ,myCardValue=29.792    ,oppCardValue=7.400     
+EsPos,S10_-1 E5_2                                       ,value=21.832    ,myCardValue=29.792    ,oppCardValue=9.300     
+EsPos,S10_-1 E5_2 E1_2                                  ,value=20.732    ,myCardValue=24.592    ,oppCardValue=5.200     
+EsPos,S10_-1 E5_2 E1_10                                 ,value=22.932    ,myCardValue=26.792    ,oppCardValue=5.200     
+EsPos,S10_-1 E5_2 E1_-1                                 ,value=21.172    ,myCardValue=29.792    ,oppCardValue=9.300     
+EsPos,S10_-1 E1_10                                      ,value=23.732    ,myCardValue=29.792    ,oppCardValue=7.400     
+EsPos,S10_-1 E1_10 E5_10                                ,value=20.732    ,myCardValue=24.592    ,oppCardValue=5.200     
+EsPos,S10_-1 E1_10 E5_-1                                ,value=23.072    ,myCardValue=29.792    ,oppCardValue=7.400     
+EsPos,S10_-1 E5_10                                      ,value=21.832    ,myCardValue=29.792    ,oppCardValue=9.300     
+EsPos,S10_-1 E5_10 E1_10                                ,value=20.732    ,myCardValue=24.592    ,oppCardValue=5.200     
+EsPos,S10_-1 E5_10 E1_-1                                ,value=21.172    ,myCardValue=29.792    ,oppCardValue=9.300     
+EsPos,S10_-1 E1_-1                                      ,value=21.972    ,myCardValue=32.792    ,oppCardValue=11.500    
+EsPos,S10_-1 E1_-1 E5_-1                                ,value=21.312    ,myCardValue=32.792    ,oppCardValue=11.500    
+EsPos,S10_-1 E5_-1                                      ,value=21.972    ,myCardValue=32.792    ,oppCardValue=11.500    
+BEST MOVE 20.7316666666667 18.1316666666667
+EsPos,A2_5 S4_-1                                        ,value=24.698    ,myCardValue=32.658    ,oppCardValue=9.300     
+EsPos,A2_5 S4_-1 E1_2                                   ,value=23.598    ,myCardValue=27.458    ,oppCardValue=5.200     
+EsPos,A2_5 S4_-1 E1_2 E5_4                              ,value=18.098    ,myCardValue=16.758    ,oppCardValue=0.000     
+EsPos,A2_5 S4_-1 E1_2 E5_-1                             ,value=22.938    ,myCardValue=27.458    ,oppCardValue=5.200     
+EsPos,A2_5 S4_-1 E5_2                                   ,value=24.698    ,myCardValue=27.458    ,oppCardValue=4.100     
+EsPos,A2_5 S4_-1 E5_2 E1_4                              ,value=18.098    ,myCardValue=16.758    ,oppCardValue=0.000     
+EsPos,A2_5 S4_-1 E5_2 E1_-1                             ,value=24.038    ,myCardValue=27.458    ,oppCardValue=4.100     
+EsPos,A2_5 S4_-1 E1_4                                   ,value=18.098    ,myCardValue=21.958    ,oppCardValue=5.200     
+EsPos,A2_5 S4_-1 E1_4 E5_-1                             ,value=17.438    ,myCardValue=21.958    ,oppCardValue=5.200     
+EsPos,A2_5 S4_-1 E5_4                                   ,value=19.198    ,myCardValue=21.958    ,oppCardValue=4.100     
+EsPos,A2_5 S4_-1 E5_4 E1_-1                             ,value=18.538    ,myCardValue=21.958    ,oppCardValue=4.100     
+EsPos,A2_5 S4_-1 E1_-1                                  ,value=24.038    ,myCardValue=32.658    ,oppCardValue=9.300     
+EsPos,A2_5 S4_-1 E1_-1 E5_-1                            ,value=23.378    ,myCardValue=32.658    ,oppCardValue=9.300     
+EsPos,A2_5 S4_-1 E5_-1                                  ,value=24.038    ,myCardValue=32.658    ,oppCardValue=9.300     
+BEST MOVE 17.4383333333333 20.7316666666667
+EsPos,A2_5 S6_-1                                        ,value=20.992    ,myCardValue=28.292    ,oppCardValue=9.300     
+EsPos,A2_5 S6_-1 E1_2                                   ,value=19.892    ,myCardValue=23.092    ,oppCardValue=5.200     
+EsPos,A2_5 S6_-1 E1_2 E5_6                              ,value=19.892    ,myCardValue=17.892    ,oppCardValue=0.000     
+EsPos,A2_5 S6_-1 E1_2 E5_-1                             ,value=19.232    ,myCardValue=23.092    ,oppCardValue=5.200     
+EsPos,A2_5 S6_-1 E5_2                                   ,value=20.992    ,myCardValue=23.092    ,oppCardValue=4.100     
+EsPos,A2_5 S6_-1 E5_2 E1_6                              ,value=19.892    ,myCardValue=17.892    ,oppCardValue=0.000     
+EsPos,A2_5 S6_-1 E5_2 E1_-1                             ,value=20.332    ,myCardValue=23.092    ,oppCardValue=4.100     
+EsPos,A2_5 S6_-1 E1_6                                   ,value=19.892    ,myCardValue=23.092    ,oppCardValue=5.200     
+EsPos,A2_5 S6_-1 E1_6 E5_-1                             ,value=19.232    ,myCardValue=23.092    ,oppCardValue=5.200     
+EsPos,A2_5 S6_-1 E5_6                                   ,value=20.992    ,myCardValue=23.092    ,oppCardValue=4.100     
+EsPos,A2_5 S6_-1 E5_6 E1_-1                             ,value=20.332    ,myCardValue=23.092    ,oppCardValue=4.100     
+EsPos,A2_5 S6_-1 E1_-1                                  ,value=20.332    ,myCardValue=28.292    ,oppCardValue=9.300     
+EsPos,A2_5 S6_-1 E1_-1 E5_-1                            ,value=19.672    ,myCardValue=28.292    ,oppCardValue=9.300     
+EsPos,A2_5 S6_-1 E5_-1                                  ,value=20.332    ,myCardValue=28.292    ,oppCardValue=9.300     
+BEST MOVE 19.2316666666667 20.7316666666667
+EsPos,A2_5 S10_-1                                       ,value=21.832    ,myCardValue=29.792    ,oppCardValue=9.300     
+EsPos,A2_5 S10_-1 E1_2                                  ,value=20.732    ,myCardValue=24.592    ,oppCardValue=5.200     
+EsPos,A2_5 S10_-1 E1_2 E5_10                            ,value=22.932    ,myCardValue=21.592    ,oppCardValue=0.000     
+EsPos,A2_5 S10_-1 E1_2 E5_-1                            ,value=20.072    ,myCardValue=24.592    ,oppCardValue=5.200     
+EsPos,A2_5 S10_-1 E5_2                                  ,value=21.832    ,myCardValue=24.592    ,oppCardValue=4.100     
+EsPos,A2_5 S10_-1 E5_2 E1_10                            ,value=22.932    ,myCardValue=21.592    ,oppCardValue=0.000     
+EsPos,A2_5 S10_-1 E5_2 E1_-1                            ,value=21.172    ,myCardValue=24.592    ,oppCardValue=4.100     
+EsPos,A2_5 S10_-1 E1_10                                 ,value=22.932    ,myCardValue=26.792    ,oppCardValue=5.200     
+EsPos,A2_5 S10_-1 E1_10 E5_10                           ,value=22.932    ,myCardValue=21.592    ,oppCardValue=0.000     
+EsPos,A2_5 S10_-1 E1_10 E5_-1                           ,value=22.272    ,myCardValue=26.792    ,oppCardValue=5.200     
+EsPos,A2_5 S10_-1 E5_10                                 ,value=24.032    ,myCardValue=26.792    ,oppCardValue=4.100     
+EsPos,A2_5 S10_-1 E5_10 E1_10                           ,value=22.932    ,myCardValue=21.592    ,oppCardValue=0.000     
+EsPos,A2_5 S10_-1 E5_10 E1_-1                           ,value=23.372    ,myCardValue=26.792    ,oppCardValue=4.100     
+EsPos,A2_5 S10_-1 E1_-1                                 ,value=21.172    ,myCardValue=29.792    ,oppCardValue=9.300     
+EsPos,A2_5 S10_-1 E1_-1 E5_-1                           ,value=20.512    ,myCardValue=29.792    ,oppCardValue=9.300     
+EsPos,A2_5 S10_-1 E5_-1                                 ,value=21.172    ,myCardValue=29.792    ,oppCardValue=9.300     
+BEST MOVE 20.0716666666667 20.7316666666667
